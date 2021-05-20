@@ -14,3 +14,5 @@ https://testnet.bscscan.com/address/0x01a4185ced6035dc052ce2da9ea861359ca80771#c
 GLENTY/BNB LP pair on testnet 0x1d163e96ab27b8a0ef2e9973b5e734a0f6d60d83
 
 BNB/BUSD LP PAIR on testnet 0xe0e92035077c39594793e61802a350347c320cf2
+
+AMM & LP/SWAP at https://pancake.kiemtienonline360.com/#/pool

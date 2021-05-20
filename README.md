@@ -13,6 +13,8 @@ https://testnet.bscscan.com/address/0x4beb452ab6428dd9355060aa844625bd1787023b#c
 MarketCapOracle
 https://testnet.bscscan.com/address/0x5d54347fc62be32213bb9d345887c1c8f9a633b5#code
 
+GLENTYTokenMonetaryPolicy
+https://testnet.bscscan.com/address/0x13bcbc34db58be8b59c8ea6c3f124e13a4973db1#code
 
 
 

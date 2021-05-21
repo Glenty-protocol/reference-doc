@@ -29,5 +29,5 @@ Setup:
 - [x] Price flucts
 - [x] Liq changes 
 - [x] Tellor Oracles stress tests
-- [] Try with original supply & more trading activity
-- [] Market cap changes testing
+- [ ] Try with original supply & more trading activity
+- [ ] Market cap changes testing

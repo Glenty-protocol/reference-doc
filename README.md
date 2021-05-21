@@ -25,9 +25,9 @@ BNB/BUSD LP PAIR on testnet 0xe0e92035077c39594793e61802a350347c320cf2
 AMM & LP/SWAP at https://pancake.kiemtienonline360.com/#/pool
 
 Setup:
-Initialize[x]
-Price flucts[x]
-Liq changes[x]
-Tellor Oracles stress tests[x]
-Try with original supply & more trading activity[]
-Market cap changes testing[]
+- [x] Initialize 
+- [x] Price flucts
+- [x] Liq changes 
+- [x] Tellor Oracles stress tests
+- [] Try with original supply & more trading activity
+- [] Market cap changes testing

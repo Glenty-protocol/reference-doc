@@ -30,4 +30,4 @@ Setup:
 - [x] Liq changes 
 - [x] Tellor Oracles stress tests
 - [x] Try with original supply & more trading activity
-- [ ] Market cap changes testing
+- [x] Market cap changes testing

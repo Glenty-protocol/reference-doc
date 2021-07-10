@@ -15,6 +15,9 @@ https://bscscan.com/address/0x87d57af87f5fc84ef390fc1860fd3867e78ca2eb#code
 TOP100 Router DEX pairs
 https://bscscan.com/address/0x672552d297eef5041f3a39e22933e56441c2c655#code
 
+MasterChef (farms & pools) 
+https://bscscan.com/address/0x28f1aef969ba258eb05d35498576f54c686e29d3#code
+
 ##################################################
 
 

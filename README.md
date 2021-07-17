@@ -18,6 +18,7 @@ https://bscscan.com/address/0x7478042880b087e08af2fee2ad4d1c18586ab21d#code
 https://bscscan.com/address/0x672552d297eef5041f3a39e22933e56441c2c655#code
 
 MasterChef (farms & pools) 
+https://bscscan.com/address/0x2b0edf087a2a43ff3244b7c0bca92fbc3db362d5#code
 https://bscscan.com/address/0x28f1aef969ba258eb05d35498576f54c686e29d3#code
 
 ##################################################

@@ -16,6 +16,8 @@ https://bscscan.com/address/0xb419ed52e60feb891b899c8053d4bc29f02074c7#code
 https://bscscan.com/address/0x87d57af87f5fc84ef390fc1860fd3867e78ca2eb#code
 
 TOP100 Router DEX pairs
+
+https://bscscan.com/address/0x5d2ba24dc39e07b325b5a5f63053cb7549d6e85e
 https://bscscan.com/address/0x7478042880b087e08af2fee2ad4d1c18586ab21d#code
 https://bscscan.com/address/0x672552d297eef5041f3a39e22933e56441c2c655#code
 

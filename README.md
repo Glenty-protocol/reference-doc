@@ -6,6 +6,7 @@ Mainnet TOP100 token
 https://bscscan.com/address/0xa8a4df11e38c6ef79f65f22fa0a8ae0cc267637b#code
 
 Mainnet GLENTY token
+https://bscscan.com/address/0x97769506e36988d08745b64e78f66e37858f14e9
 https://bscscan.com/address/0x2b82fd7408d54fa3a5f0ceaac06b6d8ae775357a
 https://bscscan.com/address/0x862793a2ba5708570C262972b76473Cd5786F349#code
 
